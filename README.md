@@ -5,4 +5,4 @@ NOTE: The application requires the hsa.console class in order to work as the gra
 
 ## Screenshot from the application:
 
-+ [Sample](https://i.imgur.com/qwCKcUU.png)
++ ![Sample](https://i.imgur.com/qwCKcUU.png)
