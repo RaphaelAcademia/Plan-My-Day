@@ -5,4 +5,4 @@ NOTE: The application requires the hsa.console class in order to work as the gra
 
 Screenshot from the application:
 
-+ [Sample](https://github.com/RaphaelAcademia/Plan-My-Day/blob/master/PlanMyDay%20sample.PNG)
++ [Sample](https://i.imgur.com/a/wvMygg6)
