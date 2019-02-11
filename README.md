@@ -3,6 +3,6 @@ Grade 12 ICS4U Culminating Project. This is a productivity application with a ca
 
 NOTE: The application requires the hsa.console class in order to work as the graphics of the program was made using the console class
 
-Screenshot from the application:
+## Screenshot from the application:
 
-+ [Sample](https://i.imgur.com/a/wvMygg6)
++ [Sample](https://i.imgur.com/qwCKcUU.png)
